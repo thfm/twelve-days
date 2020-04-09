@@ -4,7 +4,7 @@ A program that prints the lyrics of 'Twelve Days of Christmas' programmatically.
 
 ## Installation and execution
 
-Note: the following instructions assume that you already have Rust installed on your machine.
+Note: the following instructions assume that you already have Rust on your machine. If this is not the case, you can visit https://rustup.rs/ to install it.
 
 To install this program, enter the following in a shell:
 
